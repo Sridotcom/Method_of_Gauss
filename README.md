@@ -13,8 +13,6 @@ The Method of Gauss is an orbit determination technique that relies on  observat
 ## Why is this research important?
 We observed asteroid 1998 MX5, which is classified as a near-earth asteroid. A Near-Earth Asteroid (NEA) is an asteroid that comes in close proximity to Earth's orbit as it travels around the Sun. Specifically, NEAs are asteroids whose closest approach to Earth is within about 1.3 astronomical units (AU) or less, where 1 AU is the average distance between the Earth and the Sun. The study of NEAs is vital for planetary defense as finding when these asteroids could hit the earth will be very useful for planetary defense. Additionally, finding where the asteroid will be at a certain time will allow us to find optimal rocket launch windows, utilize their gravitational pull for space exploration, and potentially mine them for resources. To determine the possible threat of our asteroid, our group utilized Jupyter Notebook and a Python script to predict the orbit of  "clones" of our asteroid. Random chaos will cause our clones to all have slightly varying orbits and analyzing these orbits will give us insight into possible future collisions. The results of our predictive model are shown below. 
 
-![image2](https://github.com/Sridotcom/Summer-Science-Program-Research/assets/66920443/4c993d11-8e0c-49fa-a66a-e6a5337f9c20)
-
 <div align="center">
   <img src="https://github.com/Sridotcom/Summer-Science-Program-Research/assets/66920443/4c993d11-8e0c-49fa-a66a-e6a5337f9c20" alt="Alt Text" class="center">
 </div>
