@@ -15,7 +15,9 @@ We observed asteroid 1998 MX5, which is classified as a near-earth asteroid. A N
 
 ![image2](https://github.com/Sridotcom/Summer-Science-Program-Research/assets/66920443/4c993d11-8e0c-49fa-a66a-e6a5337f9c20)
 
-
+<div align="center">
+  <img src="https://github.com/Sridotcom/Summer-Science-Program-Research/assets/66920443/4c993d11-8e0c-49fa-a66a-e6a5337f9c20" alt="Alt Text" class="center">
+</div>
 
 
 
