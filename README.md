@@ -1,4 +1,9 @@
 # Summer Science Program - Srivishal Sudharsan
+
+
+
+![0](https://github.com/Sridotcom/Method_of_Gauss/assets/66920443/0791a971-4538-49bb-ab6d-7e1dbc043c73)
+
 Hello! I wrote this [code](https://github.com/Sridotcom/Summer-Science-Program-Research/blob/f172be3e3ce634de08416c2f20c158931e04efa8/method_of_gauss.py) during my time at the Summer Science Program in Astrophysics at New Mexico State University. For more information about the technical details please refer to the [Orbit Report](https://github.com/Sridotcom/Method_of_Gauss/blob/7fb87df81e02f0775e7f534a1a8cdf380b190f9e/Copy%20of%20SSP%20Orbit%20Report%20(2).pdf). In short, my group and I utilized an orbit determination technique known as the Method of Gauss to determine the orbital mechanics of our chosen asteroid given 3 observations and the position of our asteroid at those observations. 
 
 ## What is the Method of Gauss?
@@ -19,7 +24,3 @@ We observed asteroid 1998 MX5, which is classified as a near-earth asteroid. A N
 
 
 
-
-
-
-![0](https://github.com/Sridotcom/Method_of_Gauss/assets/66920443/0791a971-4538-49bb-ab6d-7e1dbc043c73)
